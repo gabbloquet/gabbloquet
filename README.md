@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**gabbloquet/gabbloquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Gabin, nice to meet you. 🙂
 
-Here are some ideas to get you started:
+🚧 I'm working on this README file. 🚧
+
+I will talk about (as recommended):
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
