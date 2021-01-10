@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I am Gabin, nice to meet you. 🙂
-
 🚧 I'm working on this README file. 🚧
 
-I will talk about (as recommended):
+My name is Gabin and i am software engineer which aims to best meet the expectations of users.
+I am deeply passionate about quality, architecture, technical debates, functional approach, Separation of concerns, reusability... 
+In few words : Software Craftsmanship practices 🙂
+
+Few things about me :
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
