@@ -4,7 +4,7 @@
 
 My name is Gabin, I'm a software engineer and my goal is to meet users' expectations as best as possible.  
 I am deeply passionate about quality, architecture, technical debates, functional approach, Separation of concerns, reusability... (Everything which can permite to involve code quality, comprehension, readability).  
-In few words : Software Craftsmanship practices 🙂
+**In few words** : *Software Craftsmanship practices* 🙂
 
 Few things about me :
 
