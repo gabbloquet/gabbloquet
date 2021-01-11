@@ -9,8 +9,6 @@ I am deeply passionate about quality, architecture, technical debates, functiona
 
 In a team, i can describe myself as someone focus on the need and close to the users, that brings ideas, who is not afraid to give his point of view and think outside the box. I love help my teammates, share my knowledge, carry interesting topics...
 
-Few things about me :
-
 ## 🔭 I’m currently working
 
 - **Fullstack developer** : I'm working on a desktop web application for employees working in stores. The goal is to give them the possibility to make the best possible business decisions by giving them interesting figures. In addition, they can place orders, manage store parameters, track stocks...
