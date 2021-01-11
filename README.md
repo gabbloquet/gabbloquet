@@ -11,12 +11,17 @@ In a team, i can describe myself as someone focus on the need and close to the u
 
 Few things about me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## 🔭 I’m currently working
+
+- **Fullstack developer** : I'm working on a desktop web application for employees working in stores. The goal is to give them the possibility to make the best possible business decisions by giving them interesting figures. In addition, they can place orders, manage store parameters, track stocks...
+- **Front-end community Leader** : in few words I synergize, accompany, organize different events, help people who request it, give meaning and make the community's projects come true. Like [Vitamin](https://github.com/Decathlon/vitamin-web).
+- **Decathlon Cloud Platform Engineering member** : Finally, with a group of 1X experts, we are thinking about tomorrow's IT at Decathlon. With the aim of removing burdens on engineering teams and let them focus on business added functionalities.
+
+## 📚 I’m currently learning
+
+## Other things
+
 - 👯 I’m looking to collaborate on anything that will allow me to develop my skills
 - 🤔 I’m looking for help with everything you can teach me that I don't know.
 - 💬 Ask me about @Decathlon, Sports, React, VueJS, JavaScript, TDD, DDD, BDD, Java, Spring... (And everything on description)
-- 📫 How to reach me: gabin.bloquet@decathlon.com for any professional stuff and gabbloquet@hotmail.fr for the rest. But also [LinkedIn](https://www.linkedin.com/in/gabin-bloquet-65071a145/) || [Twitter](https://twitter.com/BloquetGabin)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: gabin.bloquet@decathlon.com for any professional stuff and gabbloquet@hotmail.fr for the rest. And of course networks : [LinkedIn](https://www.linkedin.com/in/gabin-bloquet-65071a145/) & [Twitter](https://twitter.com/BloquetGabin)
