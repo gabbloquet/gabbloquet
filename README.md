@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🚧 I'm working on this README file. 🚧
-
 My name is **Gabin**, I'm a **software engineer** and my goal is to meet users expectations as best as possible.  
 
 I am deeply passionate about quality, architecture, technical debates, functional approach, Separation of concerns, reusability... (Everything which can permite to involve code quality, comprehension, readability).  
@@ -16,6 +14,13 @@ In a team, i can describe myself as someone focus on the need and close to the u
 - **Decathlon Cloud Platform Engineering member** : Finally, with a group of 1X experts, we are thinking about tomorrow's IT at Decathlon. With the aim of removing burdens on engineering teams and let them focus on business added functionalities.
 
 ## 📚 I’m currently learning
+
+- **Front** : TailwindCSS, Learna & PostCSS
+- **Back** : Node.js, Express & Serverless
+- **Ops** : Docker
+- **Cross** : Tech lead role and things about Software engineering
+- **Other things** : Invest, efficiency...
+
 
 ## Other things
 
