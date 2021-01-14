@@ -5,7 +5,7 @@ My name is **Gabin**, I'm a **software engineer** and my goal is to meet users e
 I am deeply passionate about quality, architecture, technical debates, functional approach, Separation of concerns, reusability... (Everything which can permite to involve code quality, comprehension, readability).  
 **In few words** : *Software Craftsmanship practices* 🙂
 
-In a team, i can describe myself as someone focus on the need and close to the users, that brings ideas, who is not afraid to give his point of view and think outside the box. I love help my teammates, share my knowledge, carry interesting topics...
+In a team, i can describe myself as someone focus on the need and close to the users, that brings ideas, who is not afraid to give his point of view and think outside the box. I love work in a good atmosphere, help my teammates, share my knowledge, carry interesting topics...
 
 ## 🔭 I’m currently working as
 
