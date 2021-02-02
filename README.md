@@ -15,7 +15,7 @@ In a team, i can describe myself as someone focus on the need and close to the u
 
 ## 📚 I’m currently learning
 
-- **Front** : TailwindCSS, Learna & PostCSS
+- **Front** : Nothing in that part today (todo: TailwindCSS, Learna & PostCSS)
 - **Back** : Node.js, Express & Serverless
 - **Ops** : Docker
 - **Cross** : Tech lead role and things about Software engineering
