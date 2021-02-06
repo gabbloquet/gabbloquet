@@ -34,6 +34,7 @@ For|Name|Purpose|Techs|Repository|Demo
 [Decathlon](https://www.decathlon.fr/)| Quality helper | Tool to analyse GitHub repositories quality, create issues on it and permite to have an interesting picture of our SI quality with analystics. | Node.js, Javascript | Innersource | Innersource
 Me & friends | Mastery | Desktop application which help investors to make decisions. This tool answer to a lot of needs. It can be used by swing traders, daily traders and long term investors.  | ReactJS, Javascript, Python, Flask, PLSQL | Innersource | Innersource
 Me | Momentum Analyzer | Momentum Analyzer tool : It preconizes asset to buy thanks to market analyze. | ReactJS / Javascript | [Github](https://github.com/gabbloquet/momentum-analyzer) | [Momentum Analyzer](https://gabbloquet.github.io/momentum-analyzer/)
+Me | Covoiturage | Application allowing to connect people making the same journey to carpool | Svelte / Javascript | [Github](https://github.com/gabbloquet/svelte-covoiturage) | ![image](https://user-images.githubusercontent.com/25029077/107129570-8474ea00-68c6-11eb-91d8-2ade11039a19.png)
 Me | Personnal website | Introduce myself :) | Svelte / Javascript | [Github](https://github.com/gabbloquet/gabbloquet.github.io) | [My website](https://gabbloquet.github.io/)
 
 ## Other things
