@@ -30,6 +30,7 @@ For|Name|Purpose|Techs|Repository|Demo
 [Pictime](https://pictime-groupe.com/)| Nocibe Website | E-commerce website of [Nocibe](https://www.nocibe.fr/) | Java 8 (JEE), Bash, JSP, JavaScript, HTML, CSS | Innersource | https://www.nocibe.fr/
 [Decathlon](https://www.decathlon.fr/)| SignEasy | Retail application for signage communication supports | Craftsmanship practices (TDD, BDD, DDD et Event sourcing) Java 8 - 11 (JEE), VueJS, NodeJS, JavaScript | Innersource | https://user-images.githubusercontent.com/25029077/106657634-8c6a1c80-659c-11eb-845c-397350782592.png 
 [Decathlon](https://www.decathlon.fr/)| MyBusiness | Retail desktop application which provide to store customers a lot of tools, figures... The goal is to give them the possibility to make the best possible business decisions by giving them interesting figures. In addition, they can place orders, manage store parameters, track stocks | Craftsmanship practices (TDD, DDD) ReactJS, JavaScript, NodeJS / Express | Innersource | Innersource
+Me | Momentum Analyzer | Momentum Analyzer tool : It preconizes asset to buy thanks to market analyze. | ReactJS / Javascript | [Github](https://github.com/gabbloquet/momentum-analyzer) | [Momentum Analyzer](https://gabbloquet.github.io/momentum-analyzer/)
 
 ## Other things
 
