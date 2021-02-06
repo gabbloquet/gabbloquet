@@ -36,6 +36,7 @@ Me & friends | Mastery | Desktop application which help investors to make decisi
 Me | Momentum Analyzer | Momentum Analyzer tool : It preconizes asset to buy thanks to market analyze. | ReactJS / Javascript | [Github](https://github.com/gabbloquet/momentum-analyzer) | [Momentum Analyzer](https://gabbloquet.github.io/momentum-analyzer/)
 Me | Covoiturage | Application allowing to connect people making the same journey to carpool | Svelte / Javascript | [Github](https://github.com/gabbloquet/svelte-covoiturage) | ![image](https://user-images.githubusercontent.com/25029077/107129570-8474ea00-68c6-11eb-91d8-2ade11039a19.png)
 Me | Personnal website | Introduce myself :) | Svelte / Javascript | [Github](https://github.com/gabbloquet/gabbloquet.github.io) | [My website](https://gabbloquet.github.io/)
+Me | Dashboard template | A template which permite to people who want to create a dashboard to do it easily. | ReactJS / Javascript | [Github](https://github.com/gabbloquet/dashboard-template) | ![image](https://user-images.githubusercontent.com/25029077/107130490-3532b780-68ce-11eb-97b0-7b19af8f0bc3.png)
 
 ## Other things
 
