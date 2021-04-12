@@ -7,6 +7,10 @@ I am deeply passionate about quality, architecture, technical debates, functiona
 
 In a team, i can describe myself as someone focus on the need and close to the users, that brings ideas, who is not afraid to give his point of view and think outside the box. I love work in a good atmosphere, help my teammates, share my knowledge, carry interesting topics...
 
+## Stats 🚀
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbloquet&show_icons=true&theme=gotham&count_private=true&include_all_commits=true])](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔭 I’m currently working as
 
 - **Fullstack developer** : I'm working on a desktop web application for employees working in stores. The goal is to give them the possibility to make the best possible business decisions by giving them interesting figures. In addition, they can place orders, manage store parameters, track stocks...
