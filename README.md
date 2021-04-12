@@ -9,7 +9,7 @@ In a team, i can describe myself as someone focus on the need and close to the u
 
 ## Stats 🚀
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbloquet&show_icons=true&theme=gotham&count_private=true&include_all_commits=true])](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbloquet&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true])](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 I’m currently working as
 
