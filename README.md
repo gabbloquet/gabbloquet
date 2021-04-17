@@ -27,6 +27,8 @@ In a team, i can describe myself as someone focus on the need and close to the u
 
 ## Current projects 🚧
 
+All my projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
+
 For|Name|Purpose|Techs|Repository|Demo
 --|--|-----|--|--|--
 [Decathlon](https://www.decathlon.fr/)| MyBusiness | Retail desktop application which provide to store customers a lot of tools, figures... The goal is to give them the possibility to make the best possible business decisions by giving them interesting figures. In addition, they can place orders, manage store parameters, track stocks | Craftsmanship practices (TDD, DDD) ReactJS, JavaScript, NodeJS / Express | Innersource | Innersource
@@ -34,6 +36,15 @@ For|Name|Purpose|Techs|Repository|Demo
 [Arbre de l'espoir](http://www.larbredelespoir.fr/)| Website | I'm part of the association of the tree of hope, it's a non-profit association whose objective is to help people in difficulty. I realized the website of the association. | ReactJS, Javascript | [Github](https://github.com/gabbloquet/arbre-de-lespoir) | [Site](http://www.larbredelespoir.fr/)
 Me & friends | World of POC | A poc to demonstrate the power of hotwire coupled with spring hateoas. | Java, Spring, Thymeleaf, Hateoas | [Github](https://github.com/ecattez/word-of-poc) | Nothing for now
 Me | Twitter like API | System design base, objective is to make my own convictions about architecture and database choice. Besides that it allows me to practice Java and Spring again.  | Java / Spring | [Github](https://github.com/gabbloquet/soft-twitter) | [Reports](https://github.com/gabbloquet/soft-twitter/blob/master/reports.md)
+
+
+## Reading 📚
+
+- [User stories](https://www.youtube.com/watch?v=iu1j9JTXAh4)
+- [Scrum](https://www.youtube.com/watch?v=96cIbpiMSb0)
+- [The clean coder](https://www.amazon.fr/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+- [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501)
+- 🚧[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) 
 
 ## Other things
 
