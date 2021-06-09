@@ -13,15 +13,15 @@ In a team, i can describe myself as someone focus on the need and close to the u
 
 ## 🔭 I’m currently working as
 
-- **Fullstack developer** : I'm working on a desktop web application for employees working in stores. The goal is to give them the possibility to make the best possible business decisions by giving them interesting figures. In addition, they can place orders, manage store parameters, track stocks...
+- **Technical leader** : I'm working on a desktop web application for product designers. The aim is to enable them to follow the whole process of creating a product, from the idea stage to its commercialisation. This includes manufacturing, legal aspects, transport, after sales, etc.
 - **Front-end community Leader** : in few words I synergize, accompany, organize different events, help people who request it, give meaning and make the community's projects come true. Like [Vitamin](https://github.com/Decathlon/vitamin-web).
 - **Decathlon Cloud Platform Engineering member** : Finally, with a group of 1X experts, we are thinking about tomorrow's IT at Decathlon. With the aim of removing burdens on engineering teams and let them focus on business added functionalities.
 
 ## 📚 I’m currently learning
 
-- **Front** : Nothing in that part today (todo: TailwindCSS, Learna & PostCSS)
-- **Back** : Node.js, Express & Serverless
-- **Ops** : Docker
+- **Front** : React query library
+- **Back** : Node.js, Express
+- **Ops** : GCP, Kubernetes, Helm
 - **Cross** : Tech lead role and things about Software engineering (Currently reading "Clean code")
 - **Other things** : Invest, efficiency...
 
