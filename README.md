@@ -19,11 +19,11 @@ In a team, i can describe myself as someone focus on the need and close to the u
 
 ## 📚 I’m currently learning
 
-- **Front** : React query library
+- **Front** : RxJS, react-query
 - **Back** : Node.js, Express
-- **Ops** : GCP, Kubernetes, Helm
-- **Cross** : Tech lead role and things about Software engineering (Currently reading "Clean code")
-- **Other things** : Invest, efficiency...
+- **Ops** : GCP, Kubernetes, Helm, Flux
+- **Cross** : Tech lead role and things about Software engineering
+- **Other things** : Invest, efficiency, management...
 
 ## Current projects 🚧
 
@@ -31,7 +31,7 @@ All my projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/proj
 
 For|Name|Purpose|Techs|Repository|Demo
 --|--|-----|--|--|--
-[Decathlon](https://www.decathlon.fr/)| MyBusiness | Retail desktop application which provide to store customers a lot of tools, figures... The goal is to give them the possibility to make the best possible business decisions by giving them interesting figures. In addition, they can place orders, manage store parameters, track stocks | Craftsmanship practices (TDD, DDD) ReactJS, JavaScript, NodeJS / Express | Innersource | Innersource
+[Decathlon](https://www.decathlon.fr/)| Pace | Creation desktop application which provide to brands customers possibility to fill in all about products. This legacy product has to be rethink and that's why I joined this Business Unit, to work on redesign of it. First of all we work on a EcoDesign module which allow customer to inform ecodesign demarche, how can I make my product greener | Craftsmanship practices (TDD, DDD, BDD), ReactJS, Typescript, NodeJS / Express | Innersource | Innersource
 [Decathlon](https://www.decathlon.fr/)| Vitamin | Decathlon Design System. A lot of contributions before put it Open-source | Web components, CSS, Lerna, Storybook, Tailwind... | [Github](https://github.com/Decathlon/vitamin-web) | [Decathlon Design](https://www.decathlon.design/)
 [Arbre de l'espoir](http://www.larbredelespoir.fr/)| Website | I'm part of the association of the tree of hope, it's a non-profit association whose objective is to help people in difficulty. I realized the website of the association. | ReactJS, Javascript | [Github](https://github.com/gabbloquet/arbre-de-lespoir) | [Site](http://www.larbredelespoir.fr/)
 Me & friends | World of POC | A poc to demonstrate the power of hotwire coupled with spring hateoas. | Craftsmanship practices (BDD, DDD, TDD), Java, Spring, Thymeleaf, Hateoas | [Github](https://github.com/ecattez/word-of-poc) | Nothing for now
@@ -44,11 +44,13 @@ Me | Twitter like API | System design base, objective is to make my own convicti
 - [Scrum](https://www.youtube.com/watch?v=96cIbpiMSb0)
 - [The clean coder](https://www.amazon.fr/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501)
-- 🚧[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) 
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) 
+- 🚧[Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.fr/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+- 🚧[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 ## Other things
 
 - 👯 I’m looking to collaborate on anything that will allow me to develop my skills
 - 🤔 I’m looking for help with everything you can teach me that I don't know.
-- 💬 Ask me about @Decathlon, Sports, React, VueJS, JavaScript, TDD, DDD, BDD, Java, Spring... (And everything on description)
+- 💬 Ask me about @Decathlon, Sports, React, VueJS, JavaScript, Software craftsmanship, Java, Spring... (And everything on description)
 - 📫 How to reach me: gabin.bloquet@decathlon.com for any professional stuff and gabbloquet@hotmail.fr for the rest. And of course networks : [LinkedIn](https://www.linkedin.com/in/gabin-bloquet-65071a145/) & [Twitter](https://twitter.com/BloquetGabin)
