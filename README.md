@@ -22,8 +22,8 @@ In a team, i can describe myself as someone focus on the need and close to the u
 - **Front** : RxJS, react-query
 - **Back** : Node.js, Express
 - **Ops** : GCP, Kubernetes, Helm, Flux
-- **Cross** : Tech lead role and things about Software engineering
-- **Other things** : Invest, efficiency, management...
+- **Cross** : Tech lead role and things about Software engineering, Architecture
+- **Other things** : Invest, efficiency, management, System design...
 
 ## Current projects 🚧
 
@@ -45,7 +45,7 @@ Me | Twitter like API | System design base, objective is to make my own convicti
 - [The clean coder](https://www.amazon.fr/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) 
-- 🚧[Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.fr/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+- [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.fr/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - 🚧[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 ## Other things
