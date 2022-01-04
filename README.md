@@ -23,6 +23,7 @@ In a team, i can describe myself as someone focus on the need and close to the u
 - **Back** : Node.js, Express
 - **Ops** : GCP, Kubernetes, Helm, Flux
 - **Cross** : Tech lead role and things about Software engineering, Architecture
+- **Practices** : Test Driven Development, refactoring, simple design...
 - **Other things** : Invest, efficiency, management, System design...
 
 ## Current projects 🚧
@@ -33,7 +34,7 @@ For|Name|Purpose|Techs|Repository|Demo
 --|--|-----|--|--|--
 [Decathlon](https://www.decathlon.fr/)| Pace | Creation desktop application which provide to brands customers possibility to fill in all about products. This legacy product has to be rethink and that's why I joined this Business Unit, to work on redesign of it. First of all we work on a EcoDesign module which allow customer to inform ecodesign demarche, how can I make my product greener | Craftsmanship practices (TDD, DDD, BDD), ReactJS, Typescript, NodeJS / Express | Innersource | Innersource
 [Decathlon](https://www.decathlon.fr/)| Vitamin | Decathlon Design System. A lot of contributions before put it Open-source | Web components, CSS, Lerna, Storybook, Tailwind... | [Github](https://github.com/Decathlon/vitamin-web) | [Decathlon Design](https://www.decathlon.design/)
-[Arbre de l'espoir](http://www.larbredelespoir.fr/)| Website | I'm part of the association of the tree of hope, it's a non-profit association whose objective is to help people in difficulty. I realized the website of the association. | ReactJS, Javascript | [Github](https://github.com/gabbloquet/arbre-de-lespoir) | [Site](http://www.larbredelespoir.fr/)
+Me| TDD Katas | A playground to practice Test Driven Development and share about it. | TDD, Java 17, Spring | [Github](https://github.com/gabbloquet/tdd-training) | [Readme](https://github.com/gabbloquet/tdd-training#readme)
 Me | Todolist | A sandbox to pratice Behaviour Driven Development. | Craftsmanship practices (BDD, TDD), Java 17, Spring | [Github](https://github.com/gabbloquet/bdd-training) | Nothing for now
 Me | Twitter like API | System design base, objective is to make my own convictions about architecture and database choice. Besides that it allows me to practice Java and Spring again.  | Java / Spring | [Github](https://github.com/gabbloquet/soft-twitter) | [Reports](https://github.com/gabbloquet/soft-twitter/blob/master/reports.md)
 
