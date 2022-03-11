@@ -48,8 +48,10 @@ Me | Twitter like API | System design base, objective is to make my own convicti
 - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.fr/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [Clean Agile: Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.google.fr/books/edition/Accelerate/Kax-DwAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
-- 🚧[Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics/dp/013691571X)
+- [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics/dp/013691571X)
 - 🚧[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- 🚧[Extreme Programming explained](https://images-eu.ssl-images-amazon.com/images/I/51iupjtHU%2BL._SY445_SX342_QL70_ML2_.jpg)
+- 🚧[Test Driven Development : By example](https://www.amazon.fr/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
 ## Other things
 
