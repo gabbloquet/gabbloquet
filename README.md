@@ -7,10 +7,6 @@ I am deeply passionate about quality, architecture, continuous deployment, techn
 
 In a team, I can describe myself as someone focus on the need and close to the users, that brings ideas, who is not afraid to give his point of view and think outside the box. I love work in a good atmosphere, help my teammates, share my knowledge, carry interesting topics...
 
-## Stats 🚀
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbloquet&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true])](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🔭 I’m currently working as
 
 - **Senior Software Engineer (Tech Lead)** : I'm working on a desktop web application for product designers. The aim is to enable them to follow the whole process of creating a product, from the idea stage to its commercialisation. This includes manufacturing, legal aspects, transport, after sales, etc. In few words : _Desktop application to write Decathlon's products story and more_.
@@ -24,6 +20,13 @@ In a team, I can describe myself as someone focus on the need and close to the u
 - **Infra** : GCP, Kubernetes, Helm, Flux
 - **Role** : Staff engineer rôle
 - **Practices** : Test Driven Development, Accelerate : Continuous Delivery, Continuous integration in a high performer way (Cf. Accelerate Book)
+
+## Talks 🗣
+
+ - 2 years in tech : First observations
+ - Behavior driven development with Cypress & Cucumber
+ - 🚧 Software Craftsmanship : History, mindset & practices
+ - 🚧 Test driven development : Behavior, design, stability...
 
 ## Current projects 🚧
 
