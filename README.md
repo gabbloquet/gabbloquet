@@ -25,7 +25,7 @@ In a team, I can describe myself as someone focus on the need and close to the u
 
  - 2 years in tech : First observations
  - Behavior driven development with Cypress & Cucumber
- - 🚧 Software Craftsmanship - Big picture : definition, mindset, basics, values…
+ - Software Craftsmanship - Big picture : definition, mindset, basics, values…
  - 🚧 Test driven development : Behavior, design, stability...
 
 ## Current projects 🚧
