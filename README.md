@@ -13,6 +13,8 @@ In a team, I can describe myself as someone focus on the need and close to the u
 - **Junior Staff Engineer** : My goal is to support the teams of my business unit to Accelerate (Cf book), to increase products quality and stability.
 - **Platform Engineering member** : Finally, with a group of 2X experts, we are thinking about tomorrow's IT at Decathlon. With the aim of removing burdens on engineering teams and let them focus on business added functionalities. The goal is to become a Digital Giant.
 
+My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
+
 ## 📚 I’m currently learning
 
 - **Front** : Testing in an efficient way / Strategy
@@ -27,19 +29,6 @@ In a team, I can describe myself as someone focus on the need and close to the u
  - Behavior driven development with Cypress & Cucumber
  - Software Craftsmanship - Big picture : definition, mindset, basics, values…
  - 🚧 Test driven development : Behavior, design, stability...
-
-## Current projects 🚧
-
-All my projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
-
-For|Name|Purpose|Techs|Repository|Demo
---|--|-----|--|--|--
-[Decathlon](https://www.decathlon.fr/)| Pace | Creation desktop application which provide to brands customers possibility to fill in all about products. This legacy product has to be rethink and that's why I joined this Business Unit, to work on redesign of it. First of all we work on a EcoDesign module which allow customer to inform ecodesign demarche, how can I make my product greener | Craftsmanship practices (TDD, DDD, BDD), ReactJS, Typescript, NodeJS / Express | Innersource | Innersource
-[Decathlon](https://www.decathlon.fr/)| Vitamin | Decathlon Design System. A lot of contributions before put it Open-source | Web components, CSS, Lerna, Storybook, Tailwind... | [Github](https://github.com/Decathlon/vitamin-web) | [Decathlon Design](https://www.decathlon.design/)
-Me| TDD Katas | A playground to practice Test Driven Development and share about it. | TDD, Java 17, Spring | [Github](https://github.com/gabbloquet/tdd-training) | [Readme](https://github.com/gabbloquet/tdd-training#readme)
-Me | Todolist | A sandbox to pratice Behaviour Driven Development. | Craftsmanship practices (BDD, TDD), Java 17, Spring | [Github](https://github.com/gabbloquet/bdd-training) | Nothing for now
-Me | Twitter like API | System design base, objective is to make my own convictions about architecture and database choice. Besides that it allows me to practice Java and Spring again.  | Java / Spring | [Github](https://github.com/gabbloquet/soft-twitter) | [Reports](https://github.com/gabbloquet/soft-twitter/blob/master/reports.md)
-
 
 ## Reading 📚
 
