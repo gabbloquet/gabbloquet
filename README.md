@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Gabin**, I'm a **senior software engineer** and my goal is to meet users expectations as best as possible, quickly and in a qualitative way.  
+My name is **Gabin**, I'm a **Freelance software engineer** and my goal is to meet users expectations as best as possible, quickly and in a qualitative way.  
 
 I am deeply passionate about quality, architecture, continuous deployment, technical debates, functional approach, Separation of concerns, reusability... (Everything which can permite to involve code quality, comprehension, readability).  
 **In few words** : *Software Craftsmanship practices* 🙂
