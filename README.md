@@ -9,9 +9,8 @@ In a team, I can describe myself as someone focus on the need and close to the u
 
 ## 🔭 I’m currently working as
 
-- **Senior Software Engineer (Tech Lead)** : I'm working on a desktop web application for product designers. The aim is to enable them to follow the whole process of creating a product, from the idea stage to its commercialisation. This includes manufacturing, legal aspects, transport, after sales, etc. In few words : _Desktop application to write Decathlon's products story and more_.
-- **Junior Staff Engineer** : My goal is to support the teams of my business unit to Accelerate (Cf book), to increase products quality and stability.
-- **Platform Engineering member** : Finally, with a group of 2X experts, we are thinking about tomorrow's IT at Decathlon. With the aim of removing burdens on engineering teams and let them focus on business added functionalities. The goal is to become a Digital Giant.
+- **Developer Advocate** : I currently work as a Developer Advocate at **Adeo**. Our mission is to make Adeo an amazing place for developers_.
+- **Senior Software Engineer** : At the same time, I am working on a quality audit at **Exotec**. My mission is to give them the balls and accompany them on the implementation of a quality approach on all their solutions.
 
 My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
 
@@ -28,7 +27,7 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
  - 2 years in tech : First observations
  - Behavior driven development with Cypress & Cucumber
  - Software Craftsmanship - Big picture : definition, mindset, basics, values…
- - 🚧 Test driven development : Behavior, design, stability...
+ - 🚧 Quality applied to front-end
 
 ## Reading 📚
 
