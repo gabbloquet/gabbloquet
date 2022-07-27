@@ -16,11 +16,11 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 
 ## 📚 I’m currently learning
 
-- **Front** : Testing in an efficient way / Strategy
-- **Back** : Update with Java 17
-- **Infra** : GCP, Kubernetes, Helm, Flux
-- **Role** : Staff engineer rôle
-- **Practices** : Test Driven Development, Accelerate : Continuous Delivery, Continuous integration in a high performer way (Cf. Accelerate Book)
+- **Front** : Angular
+- **Back** : Java Spring Application piloted by Gherkin functional tests
+- **Infra** : GitHub Actions, GCP, Kubernetes, Helm, Flux
+- **Role** : Developer Advocate rôle
+- **Practices** : Test Driven Development, Behavior Driven development
 
 ## Talks 🗣
 
