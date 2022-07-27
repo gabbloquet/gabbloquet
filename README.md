@@ -10,7 +10,7 @@ In a team, I can describe myself as someone focus on the need and close to the u
 ## 🔭 I’m currently working as
 
 - **Developer Advocate** : I currently work as a Developer Advocate at **Adeo**. Our mission is to _make Adeo an amazing place for developers_.
-- **Senior Software Engineer** : At the same time, I am working on a quality audit at **Exotec**. My mission is to give them the balls and accompany them on the implementation of a quality approach on all their solutions.
+- **Senior Software Engineer** : At the same time, I am working on a configurator at **Adeo** too. My mission is to contribute to roller shutter configurator use by sailors and online customers. This domain applies software craftsmanship practices such as TDD, BDD, peer programming, hexagonal architecture...
 
 My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
 
