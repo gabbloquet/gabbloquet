@@ -50,4 +50,4 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - 👯 I’m looking to collaborate on anything that will allow me to develop my skills
 - 🤔 I’m looking for help with everything you can teach me that I don't know.
 - 💬 Ask me about @Decathlon, Sports, React, VueJS, JavaScript, Software craftsmanship, Java, Spring... (And everything on description)
-- 📫 How to reach me: gabin.bloquet@decathlon.com for any professional stuff and gabbloquet@hotmail.fr for the rest. And of course networks : [LinkedIn](https://www.linkedin.com/in/gabin-bloquet-65071a145/) & [Twitter](https://twitter.com/BloquetGabin)
+- 📫 How to reach me: gabin.blqt@gmail.com. And of course networks : [LinkedIn](https://www.linkedin.com/in/gabin-bloquet-65071a145/) & [Twitter](https://twitter.com/BloquetGabin)
