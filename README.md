@@ -42,8 +42,8 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics/dp/013691571X)
 - [Test Driven Development : By example](https://www.amazon.fr/Test-Driven-Development-Kent-Beck/dp/0321146530)
 - [System design interview](https://images-na.ssl-images-amazon.com/images/I/51xUZItrHJL.jpg)
+- [Extreme Programming explained](https://images-eu.ssl-images-amazon.com/images/I/51iupjtHU%2BL._SY445_SX342_QL70_ML2_.jpg)
 - 🚧[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
-- 🚧[Extreme Programming explained](https://images-eu.ssl-images-amazon.com/images/I/51iupjtHU%2BL._SY445_SX342_QL70_ML2_.jpg)
 
 ## Other things
 
