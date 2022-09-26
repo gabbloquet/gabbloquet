@@ -53,3 +53,5 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - 🤔 I’m looking for help with everything you can teach me that I don't know.
 - 💬 Ask me about Sports, React, VueJS, JavaScript, Software craftsmanship, Java, Spring... (And everything on description)
 - 📫 How to reach me: gabin.blqt@gmail.com. And of course networks : [LinkedIn](https://www.linkedin.com/in/gabin-bloquet-65071a145/) & [Twitter](https://twitter.com/BloquetGabin)
+
+<a href="https://app.daily.dev/gabbloquet"><img src="https://api.daily.dev/devcards/4efacfcaef2f4c8e85fcaf49edb40ef2.png?r=88g" width="400" alt="Gabin Bloquet's Dev Card"/></a>
