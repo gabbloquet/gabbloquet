@@ -9,7 +9,7 @@ In a team, I can describe myself as someone focus on the need and close to the u
 
 ## 🔭 I’m currently working as
 
-- **Senior Software Engineer** : At the same time, I am working on a configurator at **Adeo** too. My mission is to contribute to roller shutter configurator use by sailors and online customers. This domain applies software craftsmanship practices such as TDD, BDD, peer programming, hexagonal architecture...
+- **Senior Software Engineer** : At the same time, I am working on a configurator at **Adeo** too. My mission is to contribute to front door configurator use by sailors and tomorrow online customers. This domain applies software craftsmanship practices such as TDD, BDD, peer programming, hexagonal architecture... I have the tech lead role.
 
 My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
 
