@@ -44,7 +44,8 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - [Extreme Programming explained](https://images-eu.ssl-images-amazon.com/images/I/51iupjtHU%2BL._SY445_SX342_QL70_ML2_.jpg)
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.google.fr/books/edition/Deep_work_retrouver_la_concentration_dan/hU43DwAAQBAJ)
 - [Software Craft: TDD, Clean Code et autres pratiques essentielles](https://www.google.fr/books/edition/Software_craft/BiNsEAAAQBAJ)
-- 🚧 [Domain-Driven Design DISTILLED](https://www.google.fr/books/edition/Domain_Driven_Design_Distilled/k9zIDAAAQBAJ)
+- [Domain-Driven Design DISTILLED](https://www.google.fr/books/edition/Domain_Driven_Design_Distilled/k9zIDAAAQBAJ)
+- 🚧 [The BDD Books FORMULATION](https://bddbooks.com/)
 - 🚧 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 ## Other things
