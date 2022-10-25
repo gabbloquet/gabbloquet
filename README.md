@@ -26,6 +26,7 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
  - 2 years in tech : First observations
  - Behavior driven development with Cypress & Cucumber
  - Software Craftsmanship - Big picture : definition, mindset, basics, values…
+ - Software Craftsmanship - History, values & Actions.
  - 🚧 Quality applied to front-end
 
 ## Reading 📚
