@@ -50,6 +50,13 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - 🚧 [BDD in Action : Behavior-driven Development for the Whole Software Lifecycle](https://www.google.fr/books/edition/BDD_in_Action/2BGxngEACAAJ)
 - 🚧 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
+## Trainings 🎓
+
+- [Agile school : Agilité & Scrum](https://agileschool.fr/avada_portfolio/scrum/)
+- [Zenika : Spring Core](https://training.zenika.com/fr-fr/training/spring/description)
+- [Ippon : Behavior Driven Development](https://fr.ippon.tech/) 
+- [Craft Academy : Cursus fullstack](https://www.craftacademy.fr/product/cursus-fullstack)
+
 ## Other things
 
 - 👯 I’m looking to collaborate on anything that will allow me to develop my skills
