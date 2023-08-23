@@ -54,6 +54,7 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 
 - [Agile school : Agilité & Scrum](https://agileschool.fr/avada_portfolio/scrum/)
 - [Zenika : Spring Core](https://training.zenika.com/fr-fr/training/spring/description)
+- [Kent C. Dodds : Epic React](https://epicreact.dev/learn)
 - [Ippon : Behavior Driven Development](https://fr.ippon.tech/) 
 - [Craft Academy : Cursus fullstack](https://www.craftacademy.fr/product/cursus-fullstack)
 
