@@ -9,16 +9,15 @@ In a team, I can describe myself as someone focus on the need and close to the u
 
 ## 🔭 I’m currently working as
 
-- **Senior Software Engineer** : I am working on rent at **Decathlon**. This team applies software craftsmanship practices such as TDD, DDD, peer & mob programming, hexagonal architecture...
+- **Senior Software Engineer** : I work on rental at **Decathlon**. This team applies software craftsmanship practices such as TDD, DDD, peer & mob programming, hexagonal architecture...
 
 My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
 
 ## 📚 I’m currently learning
 
-- **Front** : Angular
-- **Back** : Java Spring Application piloted by Gherkin functional tests
-- **Ops** : GitHub Actions, GCP, Kubernetes, Helm, Flux
-- **Practices** : Test Driven Development, Behavior Driven development
+- **Back** : Functional programming in java (with VAVR)
+- **Ops** : GitHub Actions, GCP, Kubernetes
+- **Practices** : Test Driven Development, Pair & Mob programming
 - **Architecture** : Domain driven design, event sourcing
 
 ## Talks 🗣
@@ -57,10 +56,3 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - [Accessibilité](https://formation.accessibilite.urbilog.fr/)
 - [Ippon : Behavior Driven Development](https://fr.ippon.tech/) 
 - [Craft Academy : Cursus fullstack](https://www.craftacademy.fr/product/cursus-fullstack)
-
-## Other things
-
-- 👯 I’m looking to collaborate on anything that will allow me to develop my skills
-- 🤔 I’m looking for help with everything you can teach me that I don't know.
-- 💬 Ask me about Sports, React, VueJS, JavaScript, Software craftsmanship, Java, Spring... (And everything on description)
-- 📫 How to reach me: gabin.blqt@gmail.com. And of course networks : [LinkedIn](https://www.linkedin.com/in/gabin-bloquet-65071a145/) & [Twitter](https://twitter.com/BloquetGabin)
