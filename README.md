@@ -9,7 +9,7 @@ In a team, I can describe myself as someone focus on the need and close to the u
 
 ## 🔭 I’m currently working as
 
-- **Senior Software Engineer** : I am working on a configurator at **Adeo** for **Leroy Merlin**. My mission is to contribute to **front-door** configurator use by sailors and tomorrow online customers. This business unit applies software craftsmanship practices such as TDD, BDD, peer programming, hexagonal architecture... I have the tech lead role.
+- **Senior Software Engineer** : I am working on rent at **Decathlon**. This team applies software craftsmanship practices such as TDD, DDD, peer & mob programming, hexagonal architecture...
 
 My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
 
@@ -27,7 +27,6 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
  - Behavior driven development with Cypress & Cucumber
  - Software Craftsmanship - Big picture : definition, mindset, basics, values…
  - Software Craftsmanship - History, values & Actions.
- - 🚧 Quality applied to front-end
 
 ## Reading 📚
 
