@@ -47,7 +47,8 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - [Domain-Driven Design DISTILLED](https://www.google.fr/books/edition/Domain_Driven_Design_Distilled/k9zIDAAAQBAJ)
 - [The BDD Books FORMULATION](https://bddbooks.com/)
 - [BDD in Action : Behavior-driven Development for the Whole Software Lifecycle](https://www.google.fr/books/edition/BDD_in_Action/2BGxngEACAAJ)
-- 🚧 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- 🚧 [The 7 Habits of Highly Effective People](https://www.franklincovey.com/the-7-habits/)
+- ⏸️ [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 ## Trainings 🎓
 
@@ -57,3 +58,4 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - [Accessibilité](https://formation.accessibilite.urbilog.fr/)
 - [Ippon : Behavior Driven Development](https://fr.ippon.tech/) 
 - [Craft Academy : Cursus fullstack](https://www.craftacademy.fr/product/cursus-fullstack)
+- 🚧 [Cursus Artisan Développeur](https://artisandeveloppeur.fr/)
