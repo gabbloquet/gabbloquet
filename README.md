@@ -26,7 +26,7 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
  - Behavior driven development with Cypress & Cucumber
  - Software Craftsmanship - Big picture : definition, mindset, basics, values…
  - Software Craftsmanship - History, values & Actions.
- - Behavior Driven Development (Tips & Tricks)
+ - Behavior Driven Development : Tips & Tricks
 
 ## Reading 📚
 
