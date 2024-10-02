@@ -58,4 +58,4 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - [Accessibilité](https://formation.accessibilite.urbilog.fr/)
 - [Ippon : Behavior Driven Development](https://fr.ippon.tech/) 
 - [Craft Academy : Cursus fullstack](https://www.craftacademy.fr/product/cursus-fullstack)
-- 🚧 [Cursus Artisan Développeur](https://artisandeveloppeur.fr/)
+- [Cursus Artisan Développeur](https://artisandeveloppeur.fr/)
