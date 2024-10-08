@@ -48,7 +48,7 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - [The BDD Books FORMULATION](https://bddbooks.com/)
 - [BDD in Action : Behavior-driven Development for the Whole Software Lifecycle](https://www.google.fr/books/edition/BDD_in_Action/2BGxngEACAAJ)
 - [The 7 Habits of Highly Effective People](https://www.franklincovey.com/the-7-habits/)
-- 🚧 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 ## Trainings 🎓
 
