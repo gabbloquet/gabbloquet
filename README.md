@@ -13,13 +13,6 @@ In a team, I can describe myself as someone focus on the need and close to the u
 
 My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
 
-## 📚 I’m currently learning
-
-- **Back** : Functional programming in java (with VAVR)
-- **Ops** : GitHub Actions, GCP, Kubernetes
-- **Practices** : Test Driven Development, Pair & Mob programming
-- **Architecture** : Domain driven design, event sourcing
-
 ## Talks 🗣
 
  - 2 years in tech : First observations
