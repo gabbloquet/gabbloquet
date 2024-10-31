@@ -13,7 +13,7 @@ In a team, I can describe myself as someone focus on the need and close to the u
 
 My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
 
-## Talks 🗣
+## My talks 🗣
 
  - 2 years in tech : First observations
  - Behavior driven development with Cypress & Cucumber (Talk given at Decathlon)
@@ -21,7 +21,7 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
  - Software Craftsmanship - History, values & Actions (Talk given at Sfeir)
  - Behavior Driven Development : Tips & Tricks (Talk given at Sfeir, Decathlon & Numbr)
 
-## Reading 📚
+## My readings 📚
 
 ### Hard skills
 
@@ -50,7 +50,7 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - [Pourquoi on ne se comprend pas ?: Mieux communiquer avec la méthode des 4 couleurs](https://www.fnac.com/a14112609/Elodie-Bancelin-Pourquoi-on-ne-se-comprend-pas)
 - [Comment se faire des amis](https://www.fnac.com/a130113/Dale-Carnegie-Comment-se-faire-des-amis) 🚧
 
-## Trainings 🎓
+## Trainings I did 🎓
 
 - [Agile school : Agilité & Scrum](https://agileschool.fr/avada_portfolio/scrum/)
 - [Zenika : Spring Core](https://training.zenika.com/fr-fr/training/spring/description)
