@@ -9,7 +9,7 @@ In a team, I can describe myself as someone focus on the need and close to the u
 
 ## 🔭 I’m currently working as
 
-- **Senior Software Engineer** : I work on rental at **Decathlon**. This team applies software craftsmanship practices such as TDD, DDD, peer & mob programming, hexagonal architecture...
+- **Chief Technical Officer** : I've embarked on an entrepreneurial adventure with a friend, and we're developing a SaaS to help companies and their CSE elected representatives. My main objective currently is to make good choices to be able to deliver a MVP quickly without putting the quality on the side. Hard job isn't it ?
 
 My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
 
@@ -23,12 +23,14 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 ## Talks 🗣
 
  - 2 years in tech : First observations
- - Behavior driven development with Cypress & Cucumber
- - Software Craftsmanship - Big picture : definition, mindset, basics, values…
- - Software Craftsmanship - History, values & Actions.
- - Behavior Driven Development : Tips & Tricks
+ - Behavior driven development with Cypress & Cucumber (Talk given at Decathlon)
+ - Software Craftsmanship - Big picture : definition, mindset, basics, values… (Talk given at Decathlon)
+ - Software Craftsmanship - History, values & Actions (Talk given at Sfeir)
+ - Behavior Driven Development : Tips & Tricks (Talk given at Sfeir, Decathlon & Numbr)
 
 ## Reading 📚
+
+### Hard skills
 
 - [User stories](https://www.youtube.com/watch?v=iu1j9JTXAh4)
 - [Scrum](https://www.youtube.com/watch?v=96cIbpiMSb0)
@@ -42,13 +44,18 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 - [Test Driven Development : By example](https://www.amazon.fr/Test-Driven-Development-Kent-Beck/dp/0321146530)
 - [System design interview](https://images-na.ssl-images-amazon.com/images/I/51xUZItrHJL.jpg)
 - [Extreme Programming explained](https://images-eu.ssl-images-amazon.com/images/I/51iupjtHU%2BL._SY445_SX342_QL70_ML2_.jpg)
-- [Deep Work: Rules for Focused Success in a Distracted World](https://www.google.fr/books/edition/Deep_work_retrouver_la_concentration_dan/hU43DwAAQBAJ)
 - [Software Craft: TDD, Clean Code et autres pratiques essentielles](https://www.google.fr/books/edition/Software_craft/BiNsEAAAQBAJ)
 - [Domain-Driven Design DISTILLED](https://www.google.fr/books/edition/Domain_Driven_Design_Distilled/k9zIDAAAQBAJ)
 - [The BDD Books FORMULATION](https://bddbooks.com/)
 - [BDD in Action : Behavior-driven Development for the Whole Software Lifecycle](https://www.google.fr/books/edition/BDD_in_Action/2BGxngEACAAJ)
 - [The 7 Habits of Highly Effective People](https://www.franklincovey.com/the-7-habits/)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+
+### Soft skills
+
+- [Deep Work: Rules for Focused Success in a Distracted World](https://www.google.fr/books/edition/Deep_work_retrouver_la_concentration_dan/hU43DwAAQBAJ)
+- [Pourquoi on ne se comprend pas ?: Mieux communiquer avec la méthode des 4 couleurs](https://www.fnac.com/a14112609/Elodie-Bancelin-Pourquoi-on-ne-se-comprend-pas)
+- [Comment se faire des amis](https://www.fnac.com/a130113/Dale-Carnegie-Comment-se-faire-des-amis) 🚧
 
 ## Trainings 🎓
 
