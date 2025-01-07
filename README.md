@@ -48,7 +48,8 @@ My projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects
 
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.google.fr/books/edition/Deep_work_retrouver_la_concentration_dan/hU43DwAAQBAJ)
 - [Pourquoi on ne se comprend pas ?: Mieux communiquer avec la méthode des 4 couleurs](https://www.fnac.com/a14112609/Elodie-Bancelin-Pourquoi-on-ne-se-comprend-pas)
-- [Comment se faire des amis](https://www.fnac.com/a130113/Dale-Carnegie-Comment-se-faire-des-amis) 🚧
+- [Comment se faire des amis](https://www.fnac.com/a130113/Dale-Carnegie-Comment-se-faire-des-amis)
+- [Responsabilité absolue: La méthode des Navy SEALs pour réussir](https://defense-zone.com/products/responsabilite-absolue-navy-seals-jocko-willink) 🚧
 
 ## Trainings I did 🎓
 
