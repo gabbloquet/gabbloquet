@@ -22,7 +22,7 @@ I am deeply passionate about code quality, user co-creation, maintainability, So
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Justiana](https://justiana.fr/) | CSE management SaaS platform | React, TypeScript, Node.js |
-| [Legipilot](https://legipilot.com/) | Legal tech SaaS | Modern stack |
+| [Legipilot](https://www.legipilot.com/) | Legal tech SaaS | Next.js, TypeScript, Java, Spring |
 | [Vitamin Design System](https://github.com/Decathlon/vitamin-web) | Decathlon's open-source design system | Web Components, Storybook |
 | [TDD Training](https://github.com/gabbloquet/tdd-training) | Playground to practice Test Driven Development | Java 17, Spring |
 | [BDD Training](https://github.com/gabbloquet/bdd-training) | Sandbox to practice Behaviour Driven Development | Java 17, Spring |
