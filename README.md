@@ -1,43 +1,43 @@
-### Hi there 👋
+### Salut 👋
 
-My name is **Gabin**, I'm a **CTO • Crafter • Coach • Speaker** passionate about building products that matter with craft excellence.
+Je m'appelle **Gabin**, je suis **CTO & Architecte IA • Crafter • Speaker** — je conçois des systèmes IA fiables, et je garantis qu'ils tiennent en production.
 
-I am deeply passionate about code quality, user co-creation, maintainability, Software Craftsmanship, Agile practices, DevOps culture, and AI exploitation. My approach: build products with craft excellence and push teams toward autonomy.
+J'amène les produits SaaS et les systèmes IA de l'expérimentation à une production fiable, scalable et maîtrisée en coûts — RAG, orchestration multi-LLM, evals mesurables — avec une culture Software Craftsmanship affirmée (TDD, BDD, DDD). Aussi à l'aise en conception d'architecture qu'en développement full-stack.
 
-🌐 **[gabbloquet.github.io](https://gabbloquet.github.io/)** | 📧 gabin.bloquet.pro@gmail.com | 📍 Lille, France
+🌐 **[gabbloquet.github.io](https://gabbloquet.github.io/)** | 📧 gabin.bloquet.pro@gmail.com | 📍 Valence, France · Remote-first
 
-## 🔭 Currently
+## 🔭 En ce moment
 
-- **CTO @ [Legipilot](https://legipilot.com/)** - Legal tech SaaS helping legal professionals
-- **Founder & CTPO @ [Justiana](https://justiana.fr/)** - SaaS platform for companies and their CSE elected representatives
+- **Fondateur & CTPO @ [Justiana](https://justiana.fr/)** — Assistant juridique IA pour les élus de CSE : RAG juridique avec citations, transcription de réunions & PV automatiques, orchestration multi-LLM (Gemini / Mistral / AssemblyAI). Bootstrappé & rentable.
+- **CTO & Architecte IA freelance** — J'aide les éditeurs de logiciels et les PME à mettre en production des systèmes IA qui tiennent vraiment. Disponible pour de nouvelles missions.
 
-## 💡 Skills
+## 💡 Compétences
 
-| Frontend | Backend | DevOps | IA | Craft |
-|----------|---------|--------|-----|-------|
-| React, Next.js, Vue, Svelte, Angular, TypeScript | Java (8→25), Spring, Node.js, NestJS, PostgreSQL, MongoDB, Kafka | GCP, Scaleway, Docker, Kubernetes, GitHub Actions, Grafana | Claude 3.5+, ChatGPT 4+, Gemini, Spring AI, Claude Code | TDD, BDD, DDD, Clean Architecture, CQRS, Event Storming |
+| Ingénierie IA | Backend | Frontend | DevOps | Craft |
+|---------------|---------|----------|--------|-------|
+| RAG (pgvector, recherche sémantique, citations), orchestration & routage multi-LLM (Claude, Gemini, Mistral, OpenAI), evals & benchmarks, Spring AI, Claude Code, transcription & diarisation, classification documentaire | Java (8→25), Spring Boot, Python, Node.js, NestJS, PostgreSQL, MongoDB, Kafka | React, Next.js, TypeScript, Angular, Svelte | Kubernetes, Terraform, GCP, Scaleway, Docker, GitHub Actions, Grafana | TDD, BDD, DDD (stratégique & tactique), CQRS / Event Sourcing, Clean Architecture, EventStorming |
 
-## 🚀 Featured Projects
+## 🚀 Projets marquants
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Justiana](https://justiana.fr/) | CSE management SaaS platform | React, TypeScript, Java, Spring |
-| [Legipilot](https://www.legipilot.com/) | Legal tech SaaS | Next.js, TypeScript, Java, Spring |
-| [Vitamin Design System](https://github.com/Decathlon/vitamin-web) | Decathlon's open-source design system | Web Components, Storybook |
-| [TDD Training](https://github.com/gabbloquet/tdd-training) | Playground to practice Test Driven Development | Java 17, Spring |
-| [BDD Training](https://github.com/gabbloquet/bdd-training) | Sandbox to practice Behaviour Driven Development | Java 17, Spring |
+| Projet | Description | Tech |
+|--------|-------------|------|
+| [Justiana](https://justiana.fr/) | SaaS d'assistant juridique IA pour les entreprises et leurs élus de CSE — RAG, transcription, pipelines multi-LLM | Java, Spring, React, TypeScript, pgvector, Kubernetes |
+| [Legipilot](https://www.legipilot.com/) | Legal tech RH — construite en tant que CTO, de l'architecture à la production | Next.js, TypeScript, Java, Spring AI |
+| [Vitamin Design System](https://github.com/Decathlon/vitamin-web) | Le design system open source de Decathlon | Web Components, Storybook |
+| [TDD Training](https://github.com/gabbloquet/tdd-training) | Terrain d'entraînement au Test Driven Development | Java 17, Spring |
+| [BDD Training](https://github.com/gabbloquet/bdd-training) | Bac à sable pour pratiquer le Behaviour Driven Development | Java 17, Spring |
 
-📋 All my projects [HERE](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
+📋 Tous mes projets [ICI](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
 
-## 🗣 My talks
+## 🗣 Mes talks
 
 - Behavior Driven Development : Tips & Tricks (Sfeir, Decathlon, Numbr)
-- Software Craftsmanship - History, values & Actions (Sfeir)
-- Software Craftsmanship - Big picture : definition, mindset, basics, values… (Decathlon)
-- Behavior driven development with Cypress & Cucumber (Decathlon)
-- 2 years in tech : First observations
+- Software Craftsmanship - Histoire, valeurs & actions (Sfeir)
+- Software Craftsmanship - Big picture : définition, état d'esprit, bases, valeurs… (Decathlon)
+- Behavior Driven Development avec Cypress & Cucumber (Decathlon)
+- 2 ans dans la tech : premières observations
 
-## 📚 My readings
+## 📚 Mes lectures
 
 ### Hard skills
 - [User stories](https://www.youtube.com/watch?v=iu1j9JTXAh4)
@@ -47,7 +47,7 @@ I am deeply passionate about code quality, user co-creation, maintainability, So
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.fr/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [Clean Agile: Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
-- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.google.fr/books/edition/Accelerate/Kax-DwAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
+- [Accelerate: The Science of Lean Software and DevOps](https://www.google.fr/books/edition/Accelerate/Kax-DwAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
 - [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics/dp/013691571X)
 - [Test Driven Development : By example](https://www.amazon.fr/Test-Driven-Development-Kent-Beck/dp/0321146530)
 - [System design interview](https://images-na.ssl-images-amazon.com/images/I/51xUZItrHJL.jpg)
@@ -66,7 +66,7 @@ I am deeply passionate about code quality, user co-creation, maintainability, So
 - [Comment se faire des amis](https://www.fnac.com/a130113/Dale-Carnegie-Comment-se-faire-des-amis)
 - [Responsabilité absolue: La méthode des Navy SEALs pour réussir](https://defense-zone.com/products/responsabilite-absolue-navy-seals-jocko-willink) 🚧
 
-## 🎓 Trainings
+## 🎓 Formations
 
 - [Craft Academy : Cursus fullstack](https://www.craftacademy.fr/product/cursus-fullstack)
 - [Cursus Artisan Développeur](https://artisandeveloppeur.fr/)
