@@ -1,21 +1,21 @@
 ### Salut 👋
 
-Je m'appelle **Gabin**, je suis **CTO & Architecte IA • Crafter • Speaker** — je conçois des systèmes IA fiables, et je garantis qu'ils tiennent en production.
+Je m'appelle **Gabin**, je suis **Lead AI Engineer · CTO** : je construis les fonctionnalités IA de votre produit, et je fais monter l'équipe en développement agentique.
 
-J'amène les produits SaaS et les systèmes IA de l'expérimentation à une production fiable, scalable et maîtrisée en coûts — RAG, orchestration multi-LLM, evals mesurables — avec une culture Software Craftsmanship affirmée (TDD, BDD, DDD). Aussi à l'aise en conception d'architecture qu'en développement full-stack.
+J'ai construit seul la tech de Justiana, un SaaS IA juridique, jusqu'à 41 clients payants : RAG avec citations, routage multi-modèle, benchmarks et LLM as a judge avant chaque changement de modèle. Le tout sur des fondations craft (Java / Spring, DDD, architecture hexagonale, TDD), et avec Claude Code sur tout le cycle, cadré par des specs et des tests.
 
-🌐 **[gabbloquet.github.io](https://gabbloquet.github.io/)** | 📧 gabin.bloquet.pro@gmail.com | 📍 Valence, France · Remote-first
+🌐 **[gabbloquet.github.io](https://gabbloquet.github.io/)** | 📧 gabin.bloquet.pro@gmail.com | 📍 Valence, France
 
 ## 🔭 En ce moment
 
-- **Fondateur & CTPO @ [Justiana](https://justiana.fr/)** — Assistant juridique IA pour les élus de CSE : RAG juridique avec citations, transcription de réunions & PV automatiques, orchestration multi-LLM (Gemini / Mistral / AssemblyAI). Bootstrappé & rentable.
-- **CTO & Architecte IA freelance** — J'aide les éditeurs de logiciels et les PME à mettre en production des systèmes IA qui tiennent vraiment. Disponible pour de nouvelles missions.
+- **Cofondateur & CTPO @ [Justiana](https://justiana.fr/)** — Assistant juridique IA pour les élus de CSE : RAG juridique avec citations, transcription de réunions & PV automatiques, orchestration multi-LLM (Gemini / Mistral / AssemblyAI). Bootstrappé & rentable.
+- **Lead AI Engineer freelance** — Intégré à votre équipe produit, je construis les fonctionnalités IA (RAG, agents, evals) et je fais monter l'équipe en développement agentique. Disponible pour de nouvelles missions.
 
 ## 💡 Compétences
 
 | Ingénierie IA | Backend | Frontend | DevOps | Craft |
 |---------------|---------|----------|--------|-------|
-| RAG (pgvector, recherche sémantique, citations), orchestration & routage multi-LLM (Claude, Gemini, Mistral, OpenAI), evals & benchmarks, Spring AI, Claude Code, transcription & diarisation, classification documentaire | Java (8→25), Spring Boot, Python, Node.js, NestJS, PostgreSQL, MongoDB, Kafka | React, Next.js, TypeScript, Angular, Svelte | Kubernetes, Terraform, GCP, Scaleway, Docker, GitHub Actions, Grafana | TDD, BDD, DDD (stratégique & tactique), CQRS / Event Sourcing, Clean Architecture, EventStorming |
+| RAG (pgvector, recherche sémantique, citations), agents, orchestration & routage multi-LLM (Claude, Gemini, Mistral, OpenAI), evals (benchmarks, LLM as a judge), Spring AI, Claude Code, transcription & diarisation, classification documentaire | Java (8→25), Spring Boot, Python, Node.js, NestJS, PostgreSQL, MongoDB, Kafka | React, Next.js, TypeScript, Angular, Svelte | Kubernetes, Terraform, GCP, Scaleway, Docker, GitHub Actions, Grafana | TDD, BDD, DDD (stratégique & tactique), CQRS / Event Sourcing, Clean Architecture, EventStorming |
 
 ## 🚀 Projets marquants
 
@@ -35,7 +35,6 @@ J'amène les produits SaaS et les systèmes IA de l'expérimentation à une prod
 - Software Craftsmanship - Histoire, valeurs & actions (Sfeir)
 - Software Craftsmanship - Big picture : définition, état d'esprit, bases, valeurs… (Decathlon)
 - Behavior Driven Development avec Cypress & Cucumber (Decathlon)
-- 2 ans dans la tech : premières observations
 
 ## 📚 Mes lectures
 
