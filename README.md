@@ -1,4 +1,4 @@
-### Salut 👋
+### Bonjour 👋
 
 Je m'appelle **Gabin**, je suis **Lead AI Engineer · CTO** : je construis les fonctionnalités IA de votre produit, et je fais monter l'équipe en développement agentique.
 
