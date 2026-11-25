@@ -1,31 +1,37 @@
+---
+type: page
+description: README GitHub corrigé, à publier par Gabin sans ce bloc
+generated: { by: "process:workspace", at: "2026-11-25" }
+---
 ### Bonjour 👋
 
-Je m'appelle **Gabin**, je suis **Lead AI Engineer · CTO** : je construis les fonctionnalités IA de votre produit, et je fais monter l'équipe en développement agentique.
+Je m'appelle **Gabin**, **AI Engineer | Java / Spring AI, Agents IA, RAG, LLM**.
 
-J'ai construit seul la tech de Justiana, un SaaS IA juridique, jusqu'à 41 clients payants : RAG avec citations, routage multi-modèle, benchmarks et LLM as a judge avant chaque changement de modèle. Le tout sur des fondations craft (Java / Spring, DDD, architecture hexagonale, TDD), et avec Claude Code sur tout le cycle, cadré par des specs et des tests.
+J'ai construit seul la tech de [Justiana](https://justiana.fr/), un SaaS d'assistance juridique par IA utilisé par une quarantaine de clients, avec des évaluations (benchmarks, LLM as a judge) avant chaque changement de modèle. Plus de 8 ans d'ingénierie logicielle, avec des missions chez Decathlon et Leroy Merlin (Adeo).
 
-🌐 **[gabbloquet.github.io](https://gabbloquet.github.io/)** | 📧 gabin.bloquet.pro@gmail.com | 📍 Valence, France
+🌐 **[gabbloquet.github.io](https://gabbloquet.github.io/)** | 📧 gabin.bloquet.pro@gmail.com | 📍 Basé entre Lyon et Valence, mobile sur Paris
 
 ## 🔭 En ce moment
 
-- **Cofondateur & CTPO @ [Justiana](https://justiana.fr/)** — Assistant juridique IA pour les élus de CSE : RAG juridique avec citations, transcription de réunions & PV automatiques, orchestration multi-LLM (Gemini / Mistral / AssemblyAI). Bootstrappé & rentable.
-- **Lead AI Engineer freelance** — Intégré à votre équipe produit, je construis les fonctionnalités IA (RAG, agents, evals) et je fais monter l'équipe en développement agentique. Disponible pour de nouvelles missions.
+- **CTPO · Lead AI Engineer @ [Justiana](https://justiana.fr/)** : assistant juridique IA pour les élus de CSE. RAG juridique avec citations, transcription de réunions et PV automatiques, orchestration multi-LLM (Gemini, Mistral, AssemblyAI).
+- **[ai-lab](https://github.com/gabbloquet/ai-lab)** : mon laboratoire d'AI engineering. Des expériences sur les agents, le RAG et les LLM, chacune avec une question, une baseline et un verdict chiffré, publié même quand l'hypothèse est réfutée.
 
 ## 💡 Compétences
 
 | Ingénierie IA | Backend | Frontend | DevOps | Craft |
 |---------------|---------|----------|--------|-------|
-| RAG (pgvector, recherche sémantique, citations), agents, orchestration & routage multi-LLM (Claude, Gemini, Mistral, OpenAI), evals (benchmarks, LLM as a judge), Spring AI, Claude Code, transcription & diarisation, classification documentaire | Java (8→25), Spring Boot, Python, Node.js, NestJS, PostgreSQL, MongoDB, Kafka | React, Next.js, TypeScript, Angular, Svelte | Kubernetes, Terraform, GCP, Scaleway, Docker, GitHub Actions, Grafana | TDD, BDD, DDD (stratégique & tactique), CQRS / Event Sourcing, Clean Architecture, EventStorming |
+| RAG (pgvector, recherche sémantique, citations), agents, MCP, orchestration et routage multi-LLM (Claude, Gemini, Mistral, OpenAI), evals (benchmarks, LLM as a judge, DeepEval, Langfuse), Spring AI, Claude Code, transcription et diarisation, classification documentaire | Java (8→25), Spring Boot, Python, Node.js, NestJS, PostgreSQL, MongoDB, Kafka | React, Next.js, TypeScript, Angular, Svelte | Kubernetes, Terraform, GCP, Scaleway, Docker, GitHub Actions, Grafana | TDD, BDD, DDD (stratégique et tactique), CQRS / Event Sourcing, Clean Architecture, EventStorming |
 
 ## 🚀 Projets marquants
 
 | Projet | Description | Tech |
 |--------|-------------|------|
-| [Justiana](https://justiana.fr/) | SaaS d'assistant juridique IA pour les entreprises et leurs élus de CSE — RAG, transcription, pipelines multi-LLM | Java, Spring, React, TypeScript, pgvector, Kubernetes |
-| [Legipilot](https://www.legipilot.com/) | Legal tech RH — construite en tant que CTO, de l'architecture à la production | Next.js, TypeScript, Java, Spring AI |
+| [Justiana](https://justiana.fr/) | SaaS d'assistance juridique par IA pour les entreprises et leurs élus de CSE : RAG, transcription, pipelines multi-LLM | Java, Spring, React, TypeScript, pgvector, Kubernetes |
+| [ai-lab](https://github.com/gabbloquet/ai-lab) | Laboratoire d'AI engineering : expériences mesurées et reproductibles sur les agents, le RAG et les LLM | Java, Spring AI, Python, MCP, DeepEval, Langfuse |
+| [LégiPilot](https://www.legipilot.com/) | Legal tech RH, construite en tant que CTO & Lead AI Engineer (juin 2025 – mars 2026), de l'architecture à la production | Next.js, TypeScript, Java, Spring AI |
 | [Vitamin Design System](https://github.com/Decathlon/vitamin-web) | Le design system open source de Decathlon | Web Components, Storybook |
-| [TDD Training](https://github.com/gabbloquet/tdd-training) | Terrain d'entraînement au Test Driven Development | Java 17, Spring |
-| [BDD Training](https://github.com/gabbloquet/bdd-training) | Bac à sable pour pratiquer le Behaviour Driven Development | Java 17, Spring |
+| [Entraînement au TDD](https://github.com/gabbloquet/entrainement-au-tdd) | Terrain d'entraînement au Test Driven Development, à travers des katas | Java, Spring |
+| [BDD, DDD, Event Sourcing & Affordances](https://github.com/gabbloquet/bdd-ddd-es-affordance-training) | Une todolist pour pratiquer le Behaviour Driven Development et le DDD | Java, Spring, TypeScript |
 
 📋 Tous mes projets [ICI](https://github.com/gabbloquet/gabbloquet/blob/master/projects.md).
 
