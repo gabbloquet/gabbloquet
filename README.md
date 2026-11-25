@@ -1,8 +1,3 @@
----
-type: page
-description: README GitHub corrigé, à publier par Gabin sans ce bloc
-generated: { by: "process:workspace", at: "2026-11-25" }
----
 ### Bonjour 👋
 
 Je m'appelle **Gabin**, **AI Engineer | Java / Spring AI, Agents IA, RAG, LLM**.
